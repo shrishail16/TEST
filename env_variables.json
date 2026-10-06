@@ -1,0 +1,9 @@
+[
+  {
+    "env_name": "HTTP_SERVER_PORT",
+    "variable_type": "Integer",
+    "mandatory": true,
+    "default_value": 8080,
+    "about_variable": "Port for the HTTP server"
+  }
+]
